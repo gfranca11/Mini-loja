@@ -1,0 +1,30 @@
+@charset  "utf-8";
+body{
+    background-color: blue;
+    
+}
+#produtos{
+    max-width: 900px;
+    margin:0 auto;
+    padding:0 2%;
+    display: flex;
+}
+
+#carrinho{
+    max-width: 900px;
+    margin:0 auto;
+    padding:0 2%;
+    display: block;
+}
+
+.produto-single{
+    width:33.3%;
+    padding:0 20px;}
+    a{
+        color: white;
+    }
+
+    h2{
+        text-align: center;
+        background-color: aliceblue;
+    }
