@@ -22,7 +22,7 @@ MINI LOJA DE PRODUTOS ESPORTIVOS
  
  > Clone o repositório e de sua estrelinha ;]
    
-        $ https://github.com/gfranca11/Mini-loja
+        $ git clone https://github.com/gfranca11/Mini-loja
         $ cd Mini-loja
         
  
